@@ -1,1 +1,72 @@
 2024-06-05 15:28:59,488 - WebScraper - INFO - Data fetched successfully
+2024-06-06 12:37:12,267 - WebScraper - INFO - Data fetched successfully
+2024-06-06 12:39:53,891 - WebScraper - INFO - Data fetched successfully
+2024-06-06 12:41:49,481 - WebScraper - INFO - Data fetched successfully
+2024-06-06 12:52:46,924 - WebScraper - INFO - Data fetched successfully
+2024-06-06 12:59:45,423 - WebScraper - INFO - Data fetched successfully
+2024-06-06 14:11:22,693 - WebScraper - ERROR - Error: ()
+2024-06-06 14:12:11,255 - WebScraper - ERROR - Error: Message: invalid argument
+  (Session info: MicrosoftEdge=125.0.2535.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A2715DC2+61250]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6A26A06C9+206985]
+	(No symbol) [0x00007FF6A24AE281]
+	(No symbol) [0x00007FF6A249A443]
+	(No symbol) [0x00007FF6A2498774]
+	(No symbol) [0x00007FF6A249925C]
+	(No symbol) [0x00007FF6A24B0D47]
+	(No symbol) [0x00007FF6A252E39E]
+	(No symbol) [0x00007FF6A25148FA]
+	(No symbol) [0x00007FF6A24EAAA7]
+	(No symbol) [0x00007FF6A252DEB7]
+	(No symbol) [0x00007FF6A2514563]
+	(No symbol) [0x00007FF6A24E9FCE]
+	(No symbol) [0x00007FF6A24E918C]
+	(No symbol) [0x00007FF6A24E9B81]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6A28CDF54+1072532]
+	(No symbol) [0x00007FF6A2562D9C]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF6A260EF4C+51468]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF6A2603805+4549]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6A28CCF15+1068373]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6A26AA0D1+246417]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6A26A5434+226804]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6A26A556B+227115]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6A269BD60+188192]
+	BaseThreadInitThunk [0x00007FFD4603257D+29]
+	RtlUserThreadStart [0x00007FFD47EEAA48+40]
+
+2024-06-06 14:17:22,730 - WebScraper - ERROR - An unexpected error occurred. Please try again later.: Message: invalid argument
+  (Session info: MicrosoftEdge=125.0.2535.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A2715DC2+61250]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6A26A06C9+206985]
+	(No symbol) [0x00007FF6A24AE281]
+	(No symbol) [0x00007FF6A249A443]
+	(No symbol) [0x00007FF6A2498774]
+	(No symbol) [0x00007FF6A249925C]
+	(No symbol) [0x00007FF6A24B0D47]
+	(No symbol) [0x00007FF6A252E39E]
+	(No symbol) [0x00007FF6A25148FA]
+	(No symbol) [0x00007FF6A24EAAA7]
+	(No symbol) [0x00007FF6A252DEB7]
+	(No symbol) [0x00007FF6A2514563]
+	(No symbol) [0x00007FF6A24E9FCE]
+	(No symbol) [0x00007FF6A24E918C]
+	(No symbol) [0x00007FF6A24E9B81]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6A28CDF54+1072532]
+	(No symbol) [0x00007FF6A2562D9C]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF6A260EF4C+51468]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF6A2603805+4549]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6A28CCF15+1068373]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6A26AA0D1+246417]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6A26A5434+226804]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6A26A556B+227115]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6A269BD60+188192]
+	BaseThreadInitThunk [0x00007FFD4603257D+29]
+	RtlUserThreadStart [0x00007FFD47EEAA48+40]
+
+2024-06-06 14:28:49,149 - WebScraper - ERROR - Please enter the complete and correctly formatted URL. The URL you provided seems to be invalid.
+2024-06-06 14:30:07,467 - WebScraper - INFO - Data fetched successfully
+2024-06-06 14:33:34,098 - WebScraper - INFO - Data fetched successfully
+2024-06-06 14:37:02,329 - WebScraper - INFO - Data fetched successfully
+2024-06-06 14:39:30,844 - WebScraper - INFO - Data fetched successfully
