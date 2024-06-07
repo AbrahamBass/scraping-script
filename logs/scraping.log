@@ -70,3 +70,17 @@ Stacktrace:
 2024-06-06 14:33:34,098 - WebScraper - INFO - Data fetched successfully
 2024-06-06 14:37:02,329 - WebScraper - INFO - Data fetched successfully
 2024-06-06 14:39:30,844 - WebScraper - INFO - Data fetched successfully
+2024-06-07 10:12:27,195 - WebScraper - INFO - Data fetched successfully
+2024-06-07 10:20:07,046 - WebScraper - INFO - Data fetched successfully
+2024-06-07 10:37:42,078 - WebScraper - INFO - Data fetched successfully
+2024-06-07 10:40:54,650 - ScrapingController - INFO - User selected 'Salir'
+2024-06-07 10:42:00,484 - WebScraper - INFO - Data fetched successfully
+2024-06-07 10:44:10,259 - WebScraper - INFO - Data fetched successfully
+2024-06-07 10:45:22,722 - ScrapingController - INFO - User selected 'Salir'
+2024-06-07 11:08:03,517 - WebScraper - INFO - screenshot successfully
+2024-06-07 11:09:20,888 - ScrapingController - INFO - User selected 'Salir'
+2024-06-07 11:10:24,396 - WebScraper - INFO - screenshot successfully
+2024-06-07 11:18:56,948 - WebScraper - INFO - screenshot successfully
+2024-06-07 11:20:15,824 - ScrapingController - INFO - User selected 'Salir'
+2024-06-07 11:20:29,590 - WebScraper - INFO - screenshot successfully
+2024-06-07 11:21:00,971 - ScrapingController - INFO - User selected 'Salir'
